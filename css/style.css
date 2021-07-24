@@ -20,3 +20,18 @@ h2.section-title {
 h2.section-title.lighten {
   color: #fff;
 }
+
+.nav-holder {
+  display: flax;
+  align-items: : center;
+  height: 56px;
+}
+
+.nav-links{
+  background-color: aqua;
+  display: flex;
+}
+
+.nav-links{
+  margin: 0, 40px;
+}
